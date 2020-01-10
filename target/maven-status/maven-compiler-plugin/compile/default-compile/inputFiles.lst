@@ -1,0 +1,11 @@
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\model\Product.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\repository\ProductPurchaseRepository.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\repository\ProductRepository.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\controller\ExceptionControllerAdvice.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\config\ApplicationSecurityConfig.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\controller\ProductController.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\dao\ProductPurchaseDAO.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\exception\ProductsPaginationSortingException.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\model\ProductPurchase.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\SnackStoreApplication.java
+C:\intellij-idea\snacks-store-api-luisrodolfovelasco\src\main\java\com\applaudo\api\dao\ProductDAO.java
