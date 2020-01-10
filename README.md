@@ -1,4 +1,4 @@
-# snacks-store-api-luisrodolfovelasco
+# snacks-store-api
 Snacks Store | Products and Purchases Rest API built for a technical challenge in a recruitment process using Spring Boot.
 # Requirements
 For building and running the application you need:
